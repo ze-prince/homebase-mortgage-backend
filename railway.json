@@ -1,0 +1,7 @@
+{
+  "build": {
+    "builder": "paketo",
+    "buildpacks": []
+  },
+  "start": "node server.js"
+}
